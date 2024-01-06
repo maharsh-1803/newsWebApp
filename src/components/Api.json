@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Morgan Sung",
+    "title": "The first annual VTuber Awards was a win for VR | TechCrunch",
+    "description": "On stream, Filian took the stage at the center of a colossal arena, lit with violet spotlights and surrounded by crowds of fans holding lightsticks. The The VR awards show is one of the first of its kind — both for WePlay, an esports production company, and f…",
+    "url": "https://techcrunch.com/2023/12/20/vtuber-awards-vr-twitch-weplay-filian/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/VTuber-Awards_-4.png?resize=1200,675",
+    "publishedAt": "2023-12-20T22:34:17Z",
+    "content": "On stream, Filian took the stage at the center of a colossal arena, lit with violet spotlights and surrounded by crowds of fans holding lightsticks. The streamer opened the show dressed in a vivd pur… [+11065 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Lomas",
+    "title": "Big tech's divisive 'personalization' attracts fresh call for profiling-based content feeds to be off by default in EU | TechCrunch",
+    "description": "Another policy tug-of-war could be emerging around Big Tech's content recommender systems in the European Union where the Commission is facing a call from Another policy tug-of-war could be emerging around Big Tech's content recommender systems in the Europea…",
+    "url": "https://techcrunch.com/2023/12/20/dsa-recommender-systems/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/getty-photo-mosh-stalkerware.jpg?resize=1200,799",
+    "publishedAt": "2023-12-20T19:17:12Z",
+    "content": "Another policy tug-of-war could be emerging around Big Tech’s content recommender systems in the European Union where the Commission is facing a call from a number of parliamentarians to rein in prof… [+11127 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sean O'Kane",
+    "title": "Consumer Reports says Tesla’s Autopilot recall fix is 'insufficient' | TechCrunch",
+    "description": "Tesla’s fix for its Autopilot recall of more than 2 million vehicles is being called “insufficient” by Consumer Reports, following preliminary tests.",
+    "url": "https://techcrunch.com/2023/12/20/tesla-autopilot-recall-consumer-reports/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/tesla-model-s-steering-yoke.jpg?resize=1200,800",
+    "publishedAt": "2023-12-20T19:03:00Z",
+    "content": "Teslas fix for its Autopilot recall of more than 2 million vehicles is being called insufficient by Consumer Reports, following preliminary tests.\r\nKelly Funkhouser, the nonprofit organizations assoc… [+3875 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Jacquelyn Melinek",
+    "title": "Crypto valuations 'came back to earth' in 2023, but VCs expect them to rise again in 2024 | TechCrunch",
+    "description": "A recent spike of interest in crypto is rebuilding momentum, and many think that next year could be promising for crypto startups’ valuations.",
+    "url": "https://techcrunch.com/2023/12/20/crypto-valuations-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1090844164.jpg?resize=1200,786",
+    "publishedAt": "2023-12-20T18:32:31Z",
+    "content": "The past couple of years have proved to be a turbulent time for the crypto industry. As if a spate of big crypto institutions failing or going under wasnt enough, the industry saw many tourist invest… [+2553 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natalie Christman",
+    "title": "6 work from home gifts for remote workers in 2023 | TechCrunch",
+    "description": "Here are 6 work from home essentials to gift the remote worker in your life from TechCrunch's social team lead.",
+    "url": "https://techcrunch.com/2023/12/20/6-work-from-home-gifts-for-remote-workers-in-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/5-Work-From-Home-Essentials-for-Remote-Workers-2.png?resize=1200,675",
+    "publishedAt": "2023-12-20T17:50:03Z",
+    "content": "According to WFHResearch, 40% of US employees work remotely at least one day a week. This means the chances you know someone who could use a boost to their work from home setup is high.\r\nWhile workin… [+5654 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Zack Whittaker",
+    "title": "Tech gifts you shouldn't buy your family and friends for the holidays | TechCrunch",
+    "description": "This year, give the gift of good security (and strong privacy) and eschew tech that can have untoward risks or repercussions.",
+    "url": "https://techcrunch.com/2023/12/20/tech-to-avoid-holidays-security-privacy/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/getty-images-banana.jpg?resize=1200,800",
+    "publishedAt": "2023-12-20T17:21:40Z",
+    "content": "It’s the season to go a little overboard on gift giving. But this year, give the gift of good security (and privacy) and eschew tech that can have untoward risks or repercussions. We’re not talking a… [+8348 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "PaintJet is building big industrial robots for big industrial paint jobs | TechCrunch",
+    "description": "Construction may well prove to be the next major focus for robotics investment. Here in the States, the $2 trillion industry employs around eight million",
+    "url": "https://techcrunch.com/2023/12/20/paintjet-is-building-big-industrial-robots-for-big-industrial-paint-jobs/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/Bravo-close-up-horizontal.jpeg?resize=1200,800",
+    "publishedAt": "2023-12-20T16:29:10Z",
+    "content": "Construction may well prove to be the next major focus for robotics investment. Here in the States, the $2 trillion industry employs around eight million people — thats nearly one New York City. Even… [+2849 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "Fulfillment is still hot, as GreyOrange closes $135M round | TechCrunch",
+    "description": "GreyOrange announced a $140 million Series C in 2018 and today announced that it has closed out a $135 million growth financing Series D.",
+    "url": "https://techcrunch.com/2023/12/20/fulfillment-is-still-hot-as-greyorange-closes-135m-round/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-11.18.12 AM.jpg?resize=1200,791",
+    "publishedAt": "2023-12-20T16:23:30Z",
+    "content": "Over the last few years, Ive asked countless people in the robotics space what comes next after warehouse/fulfillment? The already popular category got red hot during the pandemic, as online shopping… [+1509 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sophie Alcorn",
+    "title": "Ask Sophie: Is it easier yet for AI founders to get green cards? | TechCrunch",
+    "description": "The Biden administration is trying to improve the immigration process to meet the country’s security goals and maintain its global leadership in artificial intelligence.",
+    "url": "https://techcrunch.com/2023/12/20/ask-sophie-is-it-easier-yet-for-ai-founders-to-get-green-cards/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=1024",
+    "publishedAt": "2023-12-20T03:02:20Z",
+    "content": "More posts by this contributor\r\nSophie Alcorn, attorney, author and founder of Alcorn Immigration Law in Silicon Valley, California, is an award-winning Certified Specialist Attorney in Immigration a… [+2632 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Russ Heddleston",
+    "title": "A blueprint for founders navigating economic uncertainty | TechCrunch",
+    "description": "Founding a company during economic uncertainty and excelling takes more than just a hungry founder with a good idea. It requires a solid foundation to",
+    "url": "https://techcrunch.com/2023/12/20/a-blueprint-for-founders-navigating-economic-uncertainty/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/11/indoorvector.jpg?resize=1200,902",
+    "publishedAt": "2023-12-18T21:41:34Z",
+    "content": "More posts by this contributor\r\nFounding a company during economic uncertainty and excelling takes more than just a hungry founder with a good idea. It requires a solid foundation to withstand the ma… [+2285 chars]"
+    }
+    ]
+    }
